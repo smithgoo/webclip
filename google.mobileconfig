@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>xx</string>
+			<key>PayloadDescription</key>
+			<string>配置 Web Clip 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.C359742D-ED31-4EB4-965C-4A426262A127</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>C359742D-ED31-4EB4-965C-4A426262A127</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>www.google.com</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>xx</string>
+	<key>PayloadIdentifier</key>
+	<string>wangpengdeMacBook-Pro.32DE0D35-746E-467B-8DCC-DC1F172F62DC</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C13814AA-CE41-45BE-997D-2341B3A14B6F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
